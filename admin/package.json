@@ -16,7 +16,7 @@
   "dependencies": {
     "@femessage/el-data-table": "^1.20.0",
     "@femessage/el-form-renderer": "^1.15.0",
-    "axios": "0.18.1",
+    "axios": "1.6.0",
     "core-js": "3.6.5",
     "element-ui": "2.13.2",
     "js-cookie": "2.2.0",
